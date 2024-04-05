@@ -21,4 +21,18 @@ img {
     font-size: 1.125rem;
     font-weight: bold;
     margin-bottom: 10px;
-  }
+}
+
+#header {
+    margin-top: 60px;
+}
+
+#header .site-title {
+    width: 160px;
+    line-height: 1px;
+    margin-bottom: 15px;
+}
+
+#header .a {
+    display: block;
+}
